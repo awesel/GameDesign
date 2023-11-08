@@ -4,7 +4,7 @@ The game is is an RPG modeled off of the choose your own adventure story Journey
 
 ## Value
 
-The game has an engaging story and interactive minigames and boss fights throughout.
+The game has an engaging story and interactive minigames and boss fights throughout. I intent to have constant action based on the story.
 
 ## User Experience
 
