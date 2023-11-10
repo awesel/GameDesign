@@ -11,7 +11,11 @@ The game has an engaging story and interactive minigames and boss fights through
 
 ## User Experience
 
-The game is single player. The graphics are 2d, but animated in a lively manner. Similar to Cuphead.
+The game is primarily single player. The graphics are 2d, but animated in a lively manner. Similar to Cuphead.
+
+There are also multiplayer campaigns and stories. Groups of up to 4 players can enter a story together and complete minigames together. These games and boss fights will be tweaked to accomodate the increased number of players. They can communicate via in-game voice and text chats. Story choices will be decided with votes.
+
+Boss fights and other "combat" minigames can include platformer shooters (probably optimal given 2D nature), scroll shooters, bullet-hell/shoot-em-up.
 
 ## Competitive Element
 
@@ -19,15 +23,21 @@ There will be various "speedrun" leaderboards, documenting how fast people can a
 
 Multiplayer story lines and minigames can be added. What choice to continue with will be decided by a group vote. Each players' contribution can be counted in points for each minigame & a total can be generated at the ending.
 
+Special achievements can garner special cosmetics or effects (see Scalability).
+
 ## Addictiveness Strategy
 
 Just like the Henry Stickmin games that were very popular throughout my earlier childhood, once beginning the game and being introduced to the wacky mechanics, one's innate curiousity compels them to continue exploring all the endings.
+
+Hidden achievements and easter eggs scattered throughout each storyline can also pique players' curiousity.
 
 ## Scalability
 
 There are hundreds of choose your own adventure stories. This game can be followed up with many sequels, or the tree can be expanded to incorporate other endings.
 
 Customizable characters & cosmetics offer an avenue to monetization and more features.
+
+There can also be a stats system similar to DnD or Fallout. This can impact the development of the story and how you play certain minigames/bossfights
 
 ## California Non-Discrimination Clause Statement
 
