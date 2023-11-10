@@ -2,6 +2,8 @@
 
 The game is is an RPG modeled off of the choose your own adventure story Journey Under the Sea by R.A. Montgomery. There is a PDF of the story in this repo. The game will be visually similar to Cuphead and the gameplay will be similar to the Henry Stickmin franchise.
 
+There is a graph of the book available here: https://jeremydouglass.github.io/transverse-gallery/gamebooks/01-08.html
+
 ## Value
 
 The game has an engaging story and interactive minigames and boss fights throughout. I intent to have constant action based on the story.
