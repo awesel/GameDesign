@@ -14,6 +14,11 @@
 
 - **Limited-Time Cooperative Stories:** Design cooperative story experiences where multiple players can collaborate and make decisions together in real-time. Offering these multiplayer experiences as time-limited events or in-app purchases can create a social gaming dynamic and add an element of urgency for players to join in during these events.
 
-# 3 Mini-Games / Side Objectives
+# 3 Mini-Games / Side Objectives 🎮
+
+- **Time-based Challenges:** Implement timed challenges that test players' speed and reflexes. These could involve escaping from hazardous situations within a specific time limit.
+
+- **Character Quests:** Offer side quests that delve into the backstories of supporting characters, allowing players to learn more about their motivations or history. These quests could involve assisting or teaming up with other characters.
+
 
 
