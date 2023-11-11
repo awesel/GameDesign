@@ -1,4 +1,4 @@
-# 1 Monetization
+# 1 Monetization 💰 🤑
 
 - **Redo**
   If there is an undesiereable ending (the user dies), the user has the option to watch a monetized advertisement to revert to a previous point in the game. Unlock tokens?
