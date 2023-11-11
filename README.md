@@ -8,7 +8,7 @@ The game has an engaging story and interactive minigames and boss fights through
 
 ## User Experience
 
-The game is single player. The graphics are 2d, but animated in a lively manner. Similar to Cuphead. 
+The game is single player. The graphics are 2d, but animated in a lively manner. Similar to Cuphead.
 
 ## Competitive Element
 
@@ -26,7 +26,6 @@ There are hundreds of choose your own adventure stories. This game can be follow
 
 The game will include a colorblind setting which adds a filter to make everything visible to people who are colorblind. There will also be optional narration, which describes what is happening on screen, for those who are blind. Nobody will be harassed or discriminated against during production.
 
-
 ## Addition #1
 
 Making the game live multiplayer if 2 players want to have similar stories.
@@ -34,3 +33,7 @@ Making the game live multiplayer if 2 players want to have similar stories.
 ## Addition #2
 
 Similar to Markiplier, add one "true" ending
+
+## Addition #3
+
+Incorporate components from other RPGs (ex. Minecraft StoryBook, MK11 etc.) rather than just cup pong
