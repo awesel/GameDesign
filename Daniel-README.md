@@ -19,6 +19,3 @@
 - **Time-based Challenges:** Implement timed challenges that test players' speed and reflexes. These could involve escaping from hazardous situations within a specific time limit.
 
 - **Character Quests:** Offer side quests that delve into the backstories of supporting characters, allowing players to learn more about their motivations or history. These quests could involve assisting or teaming up with other characters.
-
-
-
