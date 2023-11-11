@@ -1,7 +1,7 @@
 # 1 Monetization
 
 - **Redo**
-  If there is an undesiereable ending (the user dies), the user has the option to watch a monetized advertisement to revert to a previous point in the game.
+  If there is an undesiereable ending (the user dies), the user has the option to watch a monetized advertisement to revert to a previous point in the game. Unlock tokens?
 
 - **Subscription Services with Exclusive Content:** Implement a subscription-based model offering players exclusive in-game content, such as special outfits, weapons. Microtransactions would be purely cosmetic.
 
@@ -14,4 +14,6 @@
 
 - **Limited-Time Cooperative Stories:** Design cooperative story experiences where multiple players can collaborate and make decisions together in real-time. Offering these multiplayer experiences as time-limited events or in-app purchases can create a social gaming dynamic and add an element of urgency for players to join in during these events.
 
-# 3 
+# 3 Mini-Games / Side Objectives
+
+
