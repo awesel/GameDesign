@@ -1,4 +1,6 @@
-"better" -
+"better" (focused on interactive design)
+
+- The design is more intuitive and accessible on the user. Users should quickly and easily understand how to interact with the game. Convienience, such as accessibility on all devices, is also key. At the same time, the game behaves exactly as the developers planned and there will be no need to sacrifice features to make up for a lack of convienience.
 
 ## Introduction
 
