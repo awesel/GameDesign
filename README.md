@@ -30,3 +30,7 @@ The game will include a colorblind setting which adds a filter to make everythin
 ## Addition #1
 
 Making the game live multiplayer if 2 players want to have similar stories.
+
+## Addition #2
+
+Similar to Markiplier, add one "true" ending
