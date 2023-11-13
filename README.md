@@ -4,6 +4,8 @@ The game is is an RPG modeled off of the choose your own adventure story Journey
 
 There is a graph of the book available here: https://jeremydouglass.github.io/transverse-gallery/gamebooks/01-08.html
 
+Potentially, the game could incorporate parts of the Harvard-Westlake experience.
+
 ## Value
 
 The game has an engaging story and interactive minigames and boss fights throughout. I intent to have constant action based on the story.
