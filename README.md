@@ -1,3 +1,4 @@
+
 "better" (focused on interactive design)
 
 - The design is more intuitive and accessible on the user. Users should quickly and easily understand how to interact with the game. Convienience, such as accessibility on all devices, is also key. At the same time, the game behaves exactly as the developers planned and there will be no need to sacrifice features to make up for a lack of convienience.
@@ -57,4 +58,4 @@ The game will include a colorblind setting which adds a filter to make everythin
 
 Customizable controls & playstyles can be implemented. There can be a game mode that is purely plot and choice based, without minigames, for casual players.
 
-Difficulty settings that wil limpact the difficulty of minigames will also be added.
+Difficulty settings that will impact the difficulty of minigames will also be added.
