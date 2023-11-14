@@ -1,4 +1,3 @@
-
 "better" (focused on interactive design)
 
 - The design is more intuitive and accessible on the user. Users should quickly and easily understand how to interact with the game. Convienience, such as accessibility on all devices, is also key. At the same time, the game behaves exactly as the developers planned and there will be no need to sacrifice features to make up for a lack of convienience.
@@ -59,3 +58,57 @@ The game will include a colorblind setting which adds a filter to make everythin
 Customizable controls & playstyles can be implemented. There can be a game mode that is purely plot and choice based, without minigames, for casual players.
 
 Difficulty settings that will impact the difficulty of minigames will also be added.
+
+## ******************************\_******************************
+
+## 11/14 Group Updates:**************************\_**************************
+
+## ******************************\_******************************
+
+1. Interactive: Rather than simple choices to lead an adventure, we can incorporate interactive puzzles (which could have multiple solutions), that determine the character's next story line approach
+
+Controls need to be as simplistic as possible. Optimally, one can be able to play this with 2 fingers on their phone.
+
+Boss fights and other "combat" minigames can include platformer shooters (probably optimal given 2D nature), scroll shooters, bullet-hell/shoot-em-up.
+Small minigames / puzzles can include pattern recognition, matching shapes, looking for hidden pieces, quicktime events, etc...
+The results of these minigames will impact the rest of the storyline.
+E.g. time taken to beat; hp remaining; how successful you were in accomplishing the objective;
+
+2. Make a multiplayer mode, where the minigames/puzzles are a group task and they all follow the same story line certain storylines can only be played by two+ players so you can unlock every ending with other people.
+
+They can communicate via in-game voice and text chats. Story choices will be decided with votes.
+
+3. They can pick up artifacts throughout the story//swords, armor, extra lives, etc…
+   These provide various buffs, debuffs, utility, unlock different storylines, etc... This greatly encourages replaying the same campaign to try out different strategies.
+
+There can also be a stats system similar to DnD or Fallout. The artifacts will impact this stat system and help quantify the effects. This further increases personalizing your character. Now your characters' build can impact the development of the story and how you play certain minigames/boss fights.
+
+4. How to make money
+
+What we should do is offer 2 different types of currency: one, coins, 2, rubies. The coins are things you can get from in game and from watching ads, etc. But the rubies are the things you can get from actually spending money. The rubies can give you lives, skins, etc.
+
+5. We should have music - different music for each level / story path.
+
+6. I think it could be cool if we make the background images/ world a realistic HW - or a pixelated HW as well.
+
+7. Addictiveness
+
+Making the game live multiplayer if 2 players want to have similar stories.
+
+Similar to Markiplier, add one "true" ending - make it really hard to find
+
+Incorporate components from other RPGs (ex. Minecraft StoryBook, MK11 etc.) rather than just cup pong
+
+7. Anti-discrimination / Accessibility
+   Customizable controls & playstyles can be implemented. There can be a game mode that is purely plot and choice based, without minigames, for casual players.
+
+Difficulty settings that will impact the difficulty of minigames will also be added.
+
+https://connections.swellgarfo.com/game/-NivAIEIQZadz_cHIxWZ
+
+8. GROUP CHAT ON THE GAME
+
+   Global chat like on clash of clans - have to make sure there’s no bullying
+
+SLIDE SHOW
+https://docs.google.com/presentation/d/1tdqaWJ7QnnfMPSK8BR4I_f1gO5LOg6oydtO4t3gDUwM/edit?usp=sharing
