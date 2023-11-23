@@ -1,3 +1,3 @@
--- Adventure similar to The Lego Movie, game of running to escape from bad guys-- can choose your partner, choose your transportation- motorcycle, batmobile.
-
---Could be able to save progress of the game when reload browser
+1. Adventure similar to The Lego Movie, game of running to escape from bad guys to save the word with a "key"-- can choose your partner, choose your transportation- motorcycle, batmobile- How you want to build your lego character- with a hat, what pants, shirt, etc. - what pet/sidekick you want
+2. A bigger version of Plants vs. Zombies combined with ZombieLand, a choose your own adventure with killing and trying to escape zombies, and big scary plant characters-- what weapon, do you choose to team up with certain people?- or kill certain people- do you choose to hide in certain places? Do you want a pet to hang out with? Or are you trying to reach a certain Safe Haven maybe?
+   --Could be able to save progress of the game when reload browser
