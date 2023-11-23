@@ -4,4 +4,4 @@
 3) Live the life of your fav celeb, You can pick any celeb you want-- we'll have choices and you can live a life with their family-- pick a new house, vacations, job, if you wanna be in a movie or become a boxer- if you wanna volunteer, etc. Basically Sim City/Roblox - like build your own house or something but with skins of famous ppl.
 
 - Create something with more choices- a theme multiple people would want to play- not something hard to understand or too wordy but something fun and pleasing to actually look at
-  --Could be able to save progress of the game when reload browser
+- Saves progress when reload browser- or option to start from scratch
